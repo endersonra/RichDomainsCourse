@@ -5784,11 +5784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Academy\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "projectName": "PaymentContext.Tests",
-      "projectPath": "C:\\Academy\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "projectPath": "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "packagesPath": "C:\\Users\\eamorim\\.nuget\\packages\\",
-      "outputPath": "C:\\Academy\\PaymentContext\\PaymentContext.Tests\\obj\\",
+      "outputPath": "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5807,11 +5807,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Academy\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-              "projectPath": "C:\\Academy\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+            "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+              "projectPath": "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
             },
-            "C:\\Academy\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "C:\\Academy\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }

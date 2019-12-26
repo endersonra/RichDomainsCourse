@@ -7,9 +7,11 @@ namespace PaymentContext.Tests
     public class StudentTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void AddSubscription()
         {
+            var subscription = new Subscription(null);
             var student = new Student("Enderson", "Rufino", "12345678910", "endersonrufino@gmail.com");
+            student.AddSubscription(subscription);
         }
     }
 }

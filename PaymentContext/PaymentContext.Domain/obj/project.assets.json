@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Academy\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "C:\\Academy\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectPath": "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "packagesPath": "C:\\Users\\eamorim\\.nuget\\packages\\",
-      "outputPath": "C:\\Academy\\PaymentContext\\PaymentContext.Domain\\obj\\",
+      "outputPath": "C:\\Users\\eamorim\\Documents\\GitHub\\RichDomainsCourse\\PaymentContext\\PaymentContext.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
